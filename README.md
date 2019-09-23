@@ -1,0 +1,2 @@
+# MyGate-parking-App
+Our App focus on vehicle parking which can be either 2wheeler and 4wheeler vehicles where the available slot is assigned to that vehicle. In many places like malls, conventional hall where new people will come who doesn’t have any idea about the parking area, so it makes difficult to search the available slots to park their vehicle. This app which is completely handled by the watchman who can keep track of all available and blocked slot and assign the available slot to the vehicle.
